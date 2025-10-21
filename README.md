@@ -3,7 +3,7 @@
 
 ![CodeGeassCover](https://github.com/user-attachments/assets/e25240c3-cea6-4f05-b3f7-ec6f162a2a4b)
 
-*Main Story*
+**Main Story**
 1. Code Geass: Lelouch of the Rebellion (2006)
 2. Code Geass: Lelouch of the Rebellion R2 (2008)
 3. Code Geass: Lelouch of the Rebellion Special Edition Black Rebellion (OVA)
@@ -15,16 +15,16 @@
 9. Code Geass: Hangyaku No Lelouch III – Oudou (Movie)
 10. Code Geass: Fukkatsu No Lelouch (Movie)
 
-**Watch Code Geass Now:**
+*Watch Code Geass Now:*
 [Watch Code Geass](https://www.crunchyroll.com/series/GY2P9ED0Y/code-geass)
 
-*Spin-off series*
+**Spin-off series**
 1. Code Geass: Boukoku no Akito (Spin-Off)
 [^1]
 
 [^1]: This series takes place between Season 1 and Season 2.
 
-**Watch Code Geass: Boukoku no Akito Now:**
+*Watch Code Geass: Boukoku no Akito Now:*
 [Watch Code Geass: Boukoku no Akito](https://www.crunchyroll.com/series/GRP585ZQR/code-geass---akito-the-exiled)
 
 ## Synopsis
