@@ -65,3 +65,15 @@
 ![kallenpic](https://github.com/user-attachments/assets/6337f21e-7185-4db9-bd06-bb63fde79714)
 ### Kallen Kozuki
 : A girl living as Britannian nobility who has immersed herself in illegal anti-Britannian activities. Kallen has an active personality, practices martial arts, and is capable of piloting a Knightmare Frame to an exemplary level. Within Ashford Academy, her double life necessitates she portray herself differently, so she pretends to be frail and sickly.
+
+
+
+
+
+
+| Knightmare Frame | Character |
+| ----------- | ----------- |
+| ![shinkiro](https://github.com/user-attachments/assets/bb4f00de-270b-4f05-b7fd-20e03e1ccaf7) | Lelouch ~~Lamperouge~~ vi Britannia |
+| ![lancelot albion](https://github.com/user-attachments/assets/9e33c258-a841-459a-a613-22a773bede47) | Suzaku Kururugi |
+| <img width="700" height="394" alt="guren seiten" src="https://github.com/user-attachments/assets/b0df1797-55fb-4dd1-8e45-f65ec96f92d9" />| Kallen Kozuki |
+| ![gawain](https://github.com/user-attachments/assets/32dd49cb-0400-4e72-850e-83ed6e8aca04) | C.C. |
